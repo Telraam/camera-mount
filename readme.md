@@ -8,7 +8,7 @@ This ensures that the camera can be installed at a perfect angle without the ris
 
 You can order a printed version through goTron https://www.gotron.be/telraam-camerahouder-voor-telraam-sensoren.html
 
-Build by:
+Built by:
 https://telraam.net
 https://www.comate.be
 
